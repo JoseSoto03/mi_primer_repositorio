@@ -5,4 +5,4 @@ Este es mi primer repositorio en el bootcamp de Kodemia
 este es mi primer commit remoto
 
 #Segundo_commit
-este es el segundo commit
+este es el segundo commit.
